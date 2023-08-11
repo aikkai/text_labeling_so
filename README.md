@@ -24,7 +24,7 @@ The implementation is based on jupyter-notebook. The resources that we have in h
 
 Thus, it will be nedded to only keep some of the data that we are given, to execute the task, when employing classifiers from the sklearn package.
 On the other hand, when employing the DistilBert NN we may utilize the whole dataset, due to the fact that our GPU handles our data.
-We choose to employ our network with PyTorch due to the fact that it gives us the possibility to change a lot of parameters and handle our data in our own way.
+We choose to employ our network with PyTorch mainly be it gives us the possibility to change a lot of parameters and handle our data in our own way.
 
 Once you have setup your Nvidia (Cuda, Cuda toolkit, cudNN) you have to install the Docker Engine and afterwards the cuda container toolkit.This is mandatory in order for the container to use the GPU during the training procedure.
  
