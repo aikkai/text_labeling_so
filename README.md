@@ -1,6 +1,6 @@
 # Text Multilabeling using Stack Overflow Questions
 
-We will utilize a Docker container from hugging face, which includes PyTorch, transformers and GPU utilization tools. Therefore, we will only need to install jupyter-notebook. All other libraries are already installed.
+We will utilize a Docker container from Hugging Face, which includes PyTorch, transformers and GPU utilization tools. Therefore, we will only need to install jupyter-notebook. All other libraries are already installed.
 
 The image that has been produced can be pulled with the following command:
 ```
